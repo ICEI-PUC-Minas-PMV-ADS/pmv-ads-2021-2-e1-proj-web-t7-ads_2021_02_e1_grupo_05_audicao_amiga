@@ -41,12 +41,17 @@ Esse projeto tem como objetivo central a criação de um software que proporcion
 
 Como objetivos específicos, podemos citar:
 
-•	Permitir que o usuário tenha acesso aos vídeos anteriormente traduzidos por um voluntário, através da plataforma;
-•	Oferecer a possibilidade do usuário deficiente auditivo ou surdo de solicitar a tradução de um vídeo, encaminhando o link do mesmo através de um formulário;
-•	Viabilizar para o intérprete a opção de escolha do método de tradução dentre os oferecidos pela plataforma, sendo elas: interpretação por libras, vídeo legendado ou audiodescrição;
-•	Notificar o usuário quando sua solicitação for atendida por um voluntário;
-•	Disponibilizar os vídeos traduzidos separados por categorias personalizadas, para uma melhor interação do usuário;
-•	Dispor as solicitações de tradução, separados por categorias personalizadas, para uma melhor interação do voluntário.
+•	Permitir que o usuário tenha acesso aos vídeos anteriormente traduzidos por um voluntário, através da plataforma; 
+
+•	Oferecer a possibilidade do usuário deficiente auditivo ou surdo de solicitar a tradução de um vídeo, encaminhando o link do mesmo através de um formulário;  
+
+•	Viabilizar para o intérprete a opção de escolha do método de tradução dentre os oferecidos pela plataforma, sendo elas: interpretação por libras, vídeo legendado ou audiodescrição;  
+
+•	Notificar o usuário quando sua solicitação for atendida por um voluntário;  
+
+•	Disponibilizar os vídeos traduzidos separados por categorias personalizadas, para uma melhor interação do usuário;  
+
+•	Dispor as solicitações de tradução, separados por categorias personalizadas, para uma melhor interação do voluntário.  
 
  
 > **Links Úteis**:
