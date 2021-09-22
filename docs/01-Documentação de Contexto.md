@@ -30,11 +30,6 @@ Com a internet presente e se tornando essencial no dia a dia de todos, seja no a
 Consoante ao apresentado, o grupo busca resolver essa lacuna entre o deficiente auditivo e/ou surdo e a acessibilidade digital, promovendo maior interatividade entre o usuário e a plataforma streaming.
 
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
 ## Objetivos
 
 Esse projeto tem como objetivo central a criação de um software que proporcione à pessoa com deficiência auditiva ou surda, melhor acesso às plataformas digitais que apresentam conteúdos audiovisuais, e com isso promovendo maior qualidade de vida e inclusão social, através da ampliação de sua comunicação, habilidades de seu aprendizado, trabalho e integração com a família, amigos e sociedade.
@@ -53,28 +48,18 @@ Como objetivos específicos, podemos citar:
 
 •	Dispor as solicitações de tradução, separados por categorias personalizadas, para uma melhor interação do voluntário.  
 
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Conforme dados divulgados pelo Instituto Brasileiro de Geografia Estatística (IBGE) em 2020, 5% da população brasileira, ou seja, mais de 10,7 milhões de pessoas tem algum problema relacionado à surdez ou algum tipo de deficiência auditiva (EQUIPE EUSAÚDE, 2021) (UBM, 2020). Desses, 2,7 milhões possuem surdez profunda, e, por isso não escutam absolutamente nada (UBM, 2020). De acordo com a Organização Mundial da Saúde (OMS), a estimativa é de que 900 milhões de pessoas no mundo todo podem desenvolver surdez até 2050 (EQUIPE EUSAÚDE, 2021).
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Congênere Treinamento24.com (2020-2021) os critérios estabelecidos pela Organização Mundial de Saúde (OMS), diferencia deficiência auditiva de surdez, onde deficiência auditiva equivale à redução na capacidade de ouvir sons em uma ou ambos os ouvidos; e a surdez, por sua vez, é definida como a ausência ou perda total da capacidade de ouvir em uma ou ambos os ouvidos.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Em virtude da falta de ferramentas em plataformas streaming que permitam aos usuários com deficiência auditiva ou surdos de terem acesso aos mesmos conteúdos que uma pessoa sem deficiência, o projeto visa garantir a acessibilidade e atender ambos os públicos de acordo com suas necessidades, conectando-os com intérpretes de libras voluntários e também à ferramentas que auxiliam no entendimento do conteúdo. 
+
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Estabelecemos como público-alvo, homens e mulheres, de todas as faixas etárias, que possuem deficiência auditiva ou surdez, que utilizam frequentemente computadores e dispositivos móveis no sentido de usufruírem das plataformas streaming para se atualizarem e/ou se entreterem.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
