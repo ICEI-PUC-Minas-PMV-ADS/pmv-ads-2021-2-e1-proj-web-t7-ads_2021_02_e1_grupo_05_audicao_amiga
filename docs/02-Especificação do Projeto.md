@@ -6,6 +6,8 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 ## Personas
 
+As personas levantadas durante o processo de entendimento do problema são apresentadas abaixo.
+
 Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
@@ -26,8 +28,19 @@ Registramos as histórias de usuários no quadro abaixo, diante da informação 
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Leila Nascimento       | Assistir os vídeos mais pertinentes ao meu interesse                 | Ter conhecimento na minha área de atuação |
+|Leila Nascimento         |Assistir os vídeos mais pertinentes ao meu interesse                 |Ter conhecimento na minha área de atuação                                  |
+|Leila Nascimento         |Assistir conteúdos em vídeos relacionados com minha área de atuação  |Focar no conteúdo de estudo e não precisar perder tempo em site de buscas  |
+|Leila Nascimento         |Realizar uma pesquisa de um vídeo com tema específico                |Localizar categorias específicas e conseguir maior objetividade na pesquisa|
+|Leila Nascimento         |Assistir aos vídeos no computador e no celular                       |Ocupar o tempo ocioso                                                      |
+|Camila Figueiredo        |Visualizar os vídeos informativos disponíveis no site                |Gosto de estar por dentro do que está acontecendo                          |
+|João Paulo               |A tradução dos meus vídeos desejados.                                |Estudos e entretenimento                                                   |
+|Nikolas Cardoso          |Fácil e rápido acesso aos links para tradução.                       |Para a entrega mais rápida dos vídeos aos usuários.                        |
+|Nicole dos Santos        |Receber notificação dos vídeos para a tradução.                      |Para não me esquecer de traduzir.                                          |
+|Samanta Azevedo          |Fácil acesso ao cadastramento do voluntário                          |Para não haver erros e demorar o acesso aos vídeos.                        |
+|Felipe Eduardo           |Postar vídeos traduzidos para ficarem disponíveis no site.           |Para o usuário que solicita o link, se entreter com outros vídeos no site  |
+|Sérgio Ribeiro de Souza  |Ter acesso a mais vídeos, para aprimorar meu aprendizado.            |Complementar meus estudos                                                  |
+|Jaqueline Portes Menezes |Quero ajudar na tradução dos vídeos e praticar libras.               |Colocar em prática o que venho aprendendo.                                 |
+
 
 
 ## Requisitos
@@ -62,13 +75,13 @@ Apresentamos a seguir os requisitos não funcionais que o projeto deverá atende
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser multiplataforma, possibilitando seu uso em dispositivos com Windows, Linux e macOS. | ESSENCIAL | 
-|RNF-002| O site deve ter bom nível de contraste entre os elementos da tela em conformidade. |  DESEJÁVEL | 
-|RNF-002| Site compatível com os principais navegadores do mercado (Google Chrome, Mozilla Firefox, Microsoft Edge). |  ESSENCIAL | 
-|RNF-002| Permitir fácil acesso na internet. |  ESSENCIAL | 
-|RNF-002| Permitir a visualização adequada em um Smartphone. |  ESSENCIAL | 
-|RNF-002| Manutenção do cadastro do usuário (cadastro, alteração e/ou deleção). |  IMPORTANTE| 
-|RNF-002| O site deve aparecer no resultado de todas as pesquisas relacionadas a deficientes auditivos e surdos. |  ESSENCIAL | 
+|RNF-001| O sistema deve ser multiplataforma, possibilitando seu uso em dispositivos com Windows, Linux e macOS.     |  ESSENCIAL  | 
+|RNF-002| O site deve ter bom nível de contraste entre os elementos da tela em conformidade.                         |  DESEJÁVEL  | 
+|RNF-003| Site compatível com os principais navegadores do mercado (Google Chrome, Mozilla Firefox, Microsoft Edge). |  ESSENCIAL  | 
+|RNF-004| Permitir fácil acesso na internet.                                                                         |  ESSENCIAL  | 
+|RNF-005| Permitir a visualização adequada em um Smartphone.                                                         |  ESSENCIAL  | 
+|RNF-006| Manutenção do cadastro do usuário (cadastro, alteração e/ou deleção).                                      |  IMPORTANTE | 
+|RNF-007| O site deve aparecer no resultado de todas as pesquisas relacionadas a deficientes auditivos e surdos.     |  ESSENCIAL  | 
 
 ## Restrições
 
