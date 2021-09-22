@@ -8,9 +8,12 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas abaixo.
 
-|NOME `PERSONA`| EMAIL `FUNCIONALIDADE` |TIPO DE PERSONA `MOTIVO/VALOR`                 |
+|NOME | EMAIL  |TIPO DE PERSONA                  |
 |--------------------|------------------------------------|----------------------------------------|
 |Leila Nascimento Leal de Oliveira        |leilaleal22@gmail.com                 |Deficiente Auditivo                                 |
+|Utilidade do sistema no seu dia-a-dia | Dificuldade atual para acessar conteúdos na internet  |Preferência por tema claro ou escuro no site                 |
+|--------------------|------------------------------------|----------------------------------------|
+|"Esse sistema poderia me ajudar nos estudos, onde alguns vídeos disponibilizados no YouTube não possuem legenda e alguns não atingem o volume da deficiência que possuo."        |"A dificuldade maior seria a de acompanhar os vídeos, devido a deficiência."                 |“Prefiro tema claro”                                |
 
 
 
