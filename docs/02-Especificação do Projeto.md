@@ -68,15 +68,15 @@ Descrevemos a seguir os requisitos do projeto, identificando a prioridade em que
 
 Apresentamos a seguir os requisitos não funcionais que o projeto deverá atender.
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser multiplataforma, possibilitando seu uso em dispositivos com Windows, Linux e macOS.     |  ESSENCIAL  | 
-|RNF-002| O site deve ter bom nível de contraste entre os elementos da tela em conformidade.                         |  DESEJÁVEL  | 
-|RNF-003| Site compatível com os principais navegadores do mercado (Google Chrome, Mozilla Firefox, Microsoft Edge). |  ESSENCIAL  | 
-|RNF-004| Permitir fácil acesso na internet.                                                                         |  ESSENCIAL  | 
-|RNF-005| Permitir a visualização adequada em um Smartphone.                                                         |  ESSENCIAL  | 
-|RNF-006| Manutenção do cadastro do usuário (cadastro, alteração e/ou deleção).                                      |  IMPORTANTE | 
-|RNF-007| O site deve aparecer no resultado de todas as pesquisas relacionadas a deficientes auditivos e surdos.     |  ESSENCIAL  | 
+|ID      | Descrição do Requisito  |Prioridade |
+|--------|-------------------------|----|
+|RNF-001 | O sistema deve ser multiplataforma, possibilitando seu uso em dispositivos com Windows, Linux e macOS.     |  ESSENCIAL  | 
+|RNF-002 | O site deve ter bom nível de contraste entre os elementos da tela em conformidade.                         |  DESEJÁVEL  | 
+|RNF-003 | Site compatível com os principais navegadores do mercado (Google Chrome, Mozilla Firefox, Microsoft Edge). |  ESSENCIAL  | 
+|RNF-004 | Permitir fácil acesso na internet.                                                                         |  ESSENCIAL  | 
+|RNF-005 | Permitir a visualização adequada em um Smartphone.                                                         |  ESSENCIAL  | 
+|RNF-006 | Manutenção do cadastro do usuário (cadastro, alteração e/ou deleção).                                      |  IMPORTANTE | 
+|RNF-007 | O site deve aparecer no resultado de todas as pesquisas relacionadas a deficientes auditivos e surdos.     |  ESSENCIAL  | 
 
 ## Restrições
 
