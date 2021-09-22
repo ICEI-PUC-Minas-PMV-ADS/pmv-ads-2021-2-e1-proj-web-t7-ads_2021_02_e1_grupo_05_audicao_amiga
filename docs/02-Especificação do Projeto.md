@@ -2,9 +2,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi estabelecido com a participação dos usuários por meio de entrevista online com perguntas previamente estipuladas. A partir dessa interação consolidamos os dados coletados na forma de personas e histórias de usuários.
 
 ## Personas
 
@@ -42,15 +40,42 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+O propósito funcional do projeto é definido por meio dos requisitos funcionais que descrevem ações que o sistema deve estar apto a executar, assim como os requisitos não funcionais que descrevem os atributos que o sistema deve possuir de maneira geral. As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que o usuário tenha acesso aos vídeos anteriormente traduzidos por um voluntário, através da plataforma. | ESSENCIAL | 
 
+|RF-002| Oferecer a possibilidade do usuário deficiente auditivo ou surdo de solicitar a tradução de um vídeo, encaminhando o link do mesmo através de um formulário.| ESSENCIAL|
+
+|RF-003| Permitir que o intérprete escolha um vídeo na plataforma para tradução. | IMPORTANTE |
+
+|RF-004| Viabilizar para o intérprete a opção de escolha do método de tradução dentre os oferecidos pela plataforma, sendo elas: interpretação por libras, vídeo legendado ou              audiodescrição. | IMPORTANTE |
+
+|RF-005| Disponibilizar os vídeos traduzidos separados por categorias personalizadas, para uma melhor interação do usuário. | DESEJÁVEL |
+
+|RF-006| Dispor as solicitações de tradução, separados por categorias personalizadas, para uma melhor interação do voluntário.| DESEJÁVEL |
+
+|RF-007| Apresentar o título dos vídeos em ordem alfabética | DESEJÁVEL |
+
+|RF-008| Notificar o usuário quando sua solicitação for atendida por um voluntário. | DESEJÁVEL |
+
+|RF-009| O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um vídeo específico e fácil acesso aos vídeos já viabilizados na                    plataforma. | DESEJÁVEL |
+
+|RF-010| Inserir a opção de favoritar os vídeos desejados. | DESEJÁVEL |
+
+|RF-011| O site deve permitir visualizar as informações para contato e dúvidas, dos desenvolvedores do site. | DESEJÁVEL |
+
+|RF-012| O site deve permitir visualizar as informações sobre a origem do projeto e dos desenvolvedores do site. | DESEJÁVEL |
+
+|RF-013| O sistema deve permitir o cadastro de novos usuários (deficiente auditivo, surdo, intérprete voluntário), realizando a validação através de um 
+         e-mail de confirmação. | DESEJÁVEL |
+         
+|RF-014| Incluir/Excluir/Alterar nome de usuário em uma tela de manutenção de cadastro.  | DESEJÁVEL |
+
+|RF-015| Deve ser possível ao usuário solicitar a redefinição de sua senha, informando o e-mail cadastrado. | DESEJÁVEL |
 
 ### Requisitos não Funcionais
 
