@@ -47,34 +47,20 @@ O propósito funcional do projeto é definido por meio dos requisitos funcionais
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário tenha acesso aos vídeos anteriormente traduzidos por um voluntário, através da plataforma. | ESSENCIAL | 
-
 |RF-002| Oferecer a possibilidade do usuário deficiente auditivo ou surdo de solicitar a tradução de um vídeo, encaminhando o link do mesmo através de um formulário.| ESSENCIAL|
-
 |RF-003| Permitir que o intérprete escolha um vídeo na plataforma para tradução. | IMPORTANTE |
-
-|RF-004| Viabilizar para o intérprete a opção de escolha do método de tradução dentre os oferecidos pela plataforma, sendo elas: interpretação por libras, vídeo legendado ou              audiodescrição. | IMPORTANTE |
-
+|RF-004| Viabilizar para o intérprete a opção de escolha do método de tradução dentre os oferecidos pela plataforma, sendo elas: interpretação por libras, vídeo legendado ou      audiodescrição. | IMPORTANTE |
 |RF-005| Disponibilizar os vídeos traduzidos separados por categorias personalizadas, para uma melhor interação do usuário. | DESEJÁVEL |
-
 |RF-006| Dispor as solicitações de tradução, separados por categorias personalizadas, para uma melhor interação do voluntário.| DESEJÁVEL |
-
 |RF-007| Apresentar o título dos vídeos em ordem alfabética | DESEJÁVEL |
-
 |RF-008| Notificar o usuário quando sua solicitação for atendida por um voluntário. | DESEJÁVEL |
-
-|RF-009| O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um vídeo específico e fácil acesso aos vídeos já viabilizados na                    plataforma. | DESEJÁVEL |
-
+|RF-009| O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um vídeo específico e fácil acesso aos vídeos já viabilizados na           plataforma. | DESEJÁVEL |
 |RF-010| Inserir a opção de favoritar os vídeos desejados. | DESEJÁVEL |
-
 |RF-011| O site deve permitir visualizar as informações para contato e dúvidas, dos desenvolvedores do site. | DESEJÁVEL |
-
 |RF-012| O site deve permitir visualizar as informações sobre a origem do projeto e dos desenvolvedores do site. | DESEJÁVEL |
-
 |RF-013| O sistema deve permitir o cadastro de novos usuários (deficiente auditivo, surdo, intérprete voluntário), realizando a validação através de um 
-         e-mail de confirmação. | DESEJÁVEL |
-         
+e-mail de confirmação. | DESEJÁVEL |        
 |RF-014| Incluir/Excluir/Alterar nome de usuário em uma tela de manutenção de cadastro.  | DESEJÁVEL |
-
 |RF-015| Deve ser possível ao usuário solicitar a redefinição de sua senha, informando o e-mail cadastrado. | DESEJÁVEL |
 
 ### Requisitos não Funcionais
