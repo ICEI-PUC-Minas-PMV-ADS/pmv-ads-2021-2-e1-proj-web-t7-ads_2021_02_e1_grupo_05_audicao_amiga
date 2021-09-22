@@ -58,8 +58,7 @@ O propósito funcional do projeto é definido por meio dos requisitos funcionais
 |RF-010| Inserir a opção de favoritar os vídeos desejados. | DESEJÁVEL |
 |RF-011| O site deve permitir visualizar as informações para contato e dúvidas, dos desenvolvedores do site. | DESEJÁVEL |
 |RF-012| O site deve permitir visualizar as informações sobre a origem do projeto e dos desenvolvedores do site. | DESEJÁVEL |
-|RF-013| O sistema deve permitir o cadastro de novos usuários (deficiente auditivo, surdo, intérprete voluntário), realizando a validação através de um 
-e-mail de confirmação. | DESEJÁVEL |        
+|RF-013| O sistema deve permitir o cadastro de novos usuários (deficiente auditivo, surdo, intérprete voluntário), realizando a validação através de um e-mail de confirmação. | DESEJÁVEL |      
 |RF-014| Incluir/Excluir/Alterar nome de usuário em uma tela de manutenção de cadastro.  | DESEJÁVEL |
 |RF-015| Deve ser possível ao usuário solicitar a redefinição de sua senha, informando o e-mail cadastrado. | DESEJÁVEL |
 
