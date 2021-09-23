@@ -1,4 +1,4 @@
-# AUDIÇÃO AMIGA
+# AUDIÇÃO AMIGA.
 
 `Análise e Desenvolvimento de Sistemas`
 
