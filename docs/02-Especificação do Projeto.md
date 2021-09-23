@@ -8,12 +8,107 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas abaixo.
 
-|NOME | EMAIL  |TIPO DE PERSONA                  |
-|--------------------|------------------------------------|----------------------------------------|
-|Leila Nascimento Leal de Oliveira        |leilaleal22@gmail.com                 |Deficiente Auditivo                                 |
-|Utilidade do sistema no seu dia-a-dia |"Esse sistema poderia me ajudar nos estudos, onde alguns vídeos disponibilizados no YouTube não possuem legenda e alguns não atingem o volume da deficiência que possuo."|
-|Dificuldade atual para acessar conteúdos na internet |"A dificuldade maior seria a de acompanhar os vídeos, devido a deficiência."|
-|Preferência por tema claro ou escuro no site |“Prefiro tema claro”|
+|PERGUNTAS                    |RESPOSTA                                                                                                                  |
+|-----------------------------|--------------------------------------------------------------------------------------------------------------------------|
+|NOME                                                     |Leila Nascimento Leal de Oliveira                                                             |
+|EMAIL                                                    |leilaleal22@gmail.com                                                                         |
+|TIPO DE PERSONA                                          |Deficiente Auditivo                                                                           |
+|UTILIDADE DO SISTEMA NO SEU DIA-A-DIA                    |"Esse sistema poderia me ajudar nos estudos, onde alguns vídeos disponibilizados no YouTube não possuem legenda e alguns não atingem o volume da deficiência que possuo."   |
+|DIFICULDADE ATUAL PARA ENCONTRAR CONTEÚDOS NA INTERNET   |"A dificuldade maior seria a de acompanhar os vídeos, devido a deficiência."                  |
+|PREFERêNCIA POR TEMA CLARO OU ESCURO NO SITE             |“Prefiro tema claro”                                                                          |
+|                                                         |                                                                                              |
+|                                                         |                                                                                              |
+|                                                         |                                                                                              |
+|                                                         |                                                                                              |
+|NOME                                                     |Antônio da Rocha                                                                              |
+|EMAIL                                                    |antoniodarocha@gmail.com                                                                      |
+|TIPO DE PERSONA                                          |Deficiente Auditivo                                                                           |
+|UTILIDADE DO SISTEMA NO SEU DIA-A-DIA                    |"Diariamente me deparo com a falta de interpretação fiel em vídeos, principalmente em vídeos para fins didáticos. Creio que esse sistema facilitaria muito mais a abstração de informações tanto didaticamente, como em lazeres usuais da internet."                       |
+|DIFICULDADE ATUAL PARA ENCONTRAR CONTEÚDOS NA INTERNET   |“Como citado acima, não há troca fiel de informações. Mesmo os vídeos legendados são voltados para usuários não deficientes auditivos, pois as legendas que são feitas não são descritivas e até atualmente com o novo recurso automatizado de legendas (do Youtube, por exemplo) que serviria para ajudar, mais atrapalha, porque são legendas atrasadas e não tem tradução coerente ao que se passa no vídeo.”                                        |
+|PREFERÊNCIA POR TEMA CLARO OU ESCURO NO SITE             |“Tema escuro”                                                                                 |
+|                                                         |                                                                                              |
+|                                                         |                                                                                              |
+|                                                         |                                                                                              |
+|                                                         |                                                                                              |
+|NOME                                                     |Camila Figueiredo Oliveira                                                                    |
+|EMAIL                                                    |oliveira5cami@gmail.com                                                                       |
+|TIPO DE PERSONA                                          |Deficiente Auditivo                                                                           |
+|UTILIDADE DO SISTEMA NO SEU DIA-A-DIA                    |“Facilitaria muito, pois mesmo não tendo perda total auditiva para mim é de muito melhor entendimento a linguagem em libras, seja para vídeos informativos de estudos ou até mesmo informativo.”                                                                              |
+|DIFICULDADE ATUAL PARA ENCONTRAR CONTEÚDOS NA INTERNET   |“Na verdade bastante, mesmo nos dias de hoje não temos uma plataforma adequada  que supra nossas necessidades em conteúdos de vídeos e é frustrante.”                                                                                                                     |
+|PREFERÊNCIA POR TEMA CLARO OU ESCURO NO SITE             |“Preto, pois é mais confortável para minha visão.”                                            |
+|                                                         |                                                                                              |
+|                                                         |                                                                                              |
+|                                                         |                                                                                              |
+|                                                         |                                                                                              |
+|NOME                                                     |João Paulo Tavares                                                                            |
+|EMAIL                                                    |joaopaulo09@gmail.com                                                                         |
+|TIPO DE PERSONA                                          |Surdo                                                                                         |
+|UTILIDADE DO SISTEMA NO SEU DIA-A-DIA                    |“Seria um ótimo facilitador, para estudos da faculdade e principalmente para vídeos informativos que são os que mais costumo gostar, pois tenho perda total auditiva, e somente entendo através de libras.”                                                                   |
+|DIFICULDADE ATUAL PARA ENCONTRAR CONTEÚDOS NA INTERNET   |“Muitas, pois sabendo entender somente em libras, é quase impossível achar o vídeo que quero ver traduzido em libras.”                                                                                                                                                          |
+|PREFERÊNCIA POR TEMA CLARO OU ESCURO NO SITE             |“Particularmente preto.”                                                                      |
+|                                                         |                                                                                              |
+|                                                         |                                                                                              |
+|                                                         |                                                                                              |
+|                                                         |                                                                                              |
+|NOME                                                     |Sérgio Ribeiro de Souza                                                                       |
+|EMAIL                                                    |sergioribeirosouza@hotmail.com                                                                |
+|TIPO DE PERSONA                                          |Deficiente Auditivo                                                                           |
+|UTILIDADE DO SISTEMA NO SEU DIA-A-DIA                    |“Sou estudante e ao procurar conteúdos que possam me ajudar no aprendizado muita das vezes não consigo ter acesso por não ter legenda. Com esse sistema melhoraria consideravelmente meus estudos.”                                                                            |
+|DIFICULDADE ATUAL PARA ENCONTRAR CONTEÚDOS NA INTERNET   |“Como já havia dito, os vídeos não possuem legenda e muita das vezes quando possui não condiz muito com que está acontecendo no momento, fica atrasado ou até mesmo pula algumas partes.”                                                                                 |
+|PREFERÊNCIA POR TEMA CLARO OU ESCURO NO SITE             |“Tema claro.”                                                                                 |
+|                                                         |                                                                                              |
+|                                                         |                                                                                              |
+|                                                         |                                                                                              |
+|                                                         |                                                                                              |
+|NOME                                                     |Felipe Eduardo Lima                                                                           |
+|EMAIL                                                    |felipeedu23@gmail.com                                                                         |
+|TIPO DE PERSONA                                          |Audiodescritor Voluntário                                                                     |
+|UTILIDADE DO SISTEMA NO SEU DIA-A-DIA                    |“Poderia ajudar com informações e ensino, principalmente também aqueles que não tem muitas condições de pagar.”                                                                                                                                                                |
+|DIFICULDADE ATUAL PARA ENCONTRAR CONTEÚDOS NA INTERNET   |“Me incomoda os deficientes auditivos não terem infelizmente o acesso aos vídeos informativos, pois são vídeos necessários para o desenvolvimento.”                                                                                                                     |
+|PREFERÊNCIA POR TEMA CLARO OU ESCURO NO SITE             |“Claro (branco)”                                                                              |
+|                                                         |                                                                                              |
+|                                                         |                                                                                              |
+|                                                         |                                                                                              |
+|                                                         |                                                                                              |
+|NOME                                                     |Samanta Azevedo Silva                                                                         |
+|EMAIL                                                    |silvasamanta78@gmail.com                                                                      |
+|TIPO DE PERSONA                                          |Audiodescritor Voluntário                                                                     |
+|UTILIDADE DO SISTEMA NO SEU DIA-A-DIA                    |“Com certeza no desenvolvimento, como o aprendizado e informação.”                            |
+|DIFICULDADE ATUAL PARA ENCONTRAR CONTEÚDOS NA INTERNET   |“Me incomoda que não tenha a tradução para aqueles que não conseguem entender do que está falando o vídeo, informação é importante para todos.”                                                                                                                                |
+|PREFERÊNCIA POR TEMA CLARO OU ESCURO NO SITE             |“Tema escuro (preto)”                                                                         |
+|                                                         |                                                                                              |
+|                                                         |                                                                                              |
+|                                                         |                                                                                              |
+|                                                         |                                                                                              |
+|NOME                                                     |Nicole dos Santos Nascimento                                                                  |
+|EMAIL                                                    |nicsantos348@gmail.com                                                                        |
+|TIPO DE PERSONA                                          |Intérprete de libras voluntário                                                               |
+|UTILIDADE DO SISTEMA NO SEU DIA-A-DIA                    |“Facilitaria muito principalmente nos estudos.”                                               |
+|DIFICULDADE ATUAL PARA ENCONTRAR CONTEÚDOS NA INTERNET   |“Vídeos são uma forma de aprendizado, a maior dificuldade é não ter acesso a eles traduzidos.”|
+|PREFERÊNCIA POR TEMA CLARO OU ESCURO NO SITE             |“Gosto dos dois, não vejo diferença.”                                                         |
+|                                                         |                                                                                              |
+|                                                         |                                                                                              |
+|                                                         |                                                                                              |
+|                                                         |                                                                                              |
+|NOME                                                     |Jaqueline Portes Menezes                                                                      |
+|EMAIL                                                    |jackportesmenezes@yahoo.com.br                                                                |
+|TIPO DE PERSONA                                          |Intérprete de libras voluntário                                                               |
+|UTILIDADE DO SISTEMA NO SEU DIA-A-DIA                    |“Estou me formando em libras e me interessei com o projeto apresentado, com isso colocaria em pratica o que estou aprendendo e ajudaria na tradução.”                                                                                                                      |
+|DIFICULDADE ATUAL PARA ENCONTRAR CONTEÚDOS NA INTERNET   |“Há uma grande falta de ferramentas nas plataformas digitais que permitam aos usuários com deficiência auditiva ou surdos de terem acesso aos conteúdos.”                                                                                                                   |
+|PREFERÊNCIA POR TEMA CLARO OU ESCURO NO SITE             |“Tema escuro.”                                                                                |
+|                                                         |                                                                                              |
+|                                                         |                                                                                              |
+|                                                         |                                                                                              |
+|                                                         |                                                                                              |
+|NOME                                                     |Nikolas Cardoso de Melo                                                                       |
+|EMAIL                                                    |nikolasmelo01@gmail.com                                                                       |
+|TIPO DE PERSONA                                          |Intérprete de libras voluntário                                                               |
+|UTILIDADE DO SISTEMA NO SEU DIA-A-DIA                    |“Facilitaria muito nos estudos.”                                                              |
+|DIFICULDADE ATUAL PARA ENCONTRAR CONTEÚDOS NA INTERNET   |“Ver que a maioria dos vídeos de hoje em dia não possuem uma tradução em libras”              |
+|PREFERÊNCIA POR TEMA CLARO OU ESCURO NO SITE             |“Os dois, mas para o dia-a-dia o preto é o que mais costumo gostar”                           |
+
+
+
 
 
 
