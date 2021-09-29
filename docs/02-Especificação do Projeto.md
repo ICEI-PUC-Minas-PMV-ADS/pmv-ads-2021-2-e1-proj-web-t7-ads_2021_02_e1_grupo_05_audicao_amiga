@@ -143,9 +143,9 @@ Descrevemos a seguir os requisitos do projeto, identificando a prioridade em que
 
 |ID       | Descrição do Requisito  | Prioridade |
 |---------|-------------------------|------------|
-| RF-001   | Permitir que o usuário tenha acesso aos vídeos anteriormente traduzidos por um voluntário, através da plataforma. | ESSENCIAL | 
-| RF-002   | Oferecer a possibilidade do usuário deficiente auditivo ou surdo de solicitar a tradução de um vídeo, encaminhando o link do mesmo através de um formulário.| ESSENCIAL|
-| RF-003   | Permitir que o intérprete escolha um vídeo na plataforma para tradução. | IMPORTANTE |
+|RF-001   | Permitir que o usuário tenha acesso aos vídeos anteriormente traduzidos por um voluntário, através da plataforma. | ESSENCIAL | 
+|RF-002   | Oferecer a possibilidade do usuário deficiente auditivo ou surdo de solicitar a tradução de um vídeo, encaminhando o link do mesmo através de um formulário.| ESSENCIAL|
+|RF-003   | Permitir que o intérprete escolha um vídeo na plataforma para tradução. | IMPORTANTE |
 |RF-004   | Viabilizar para o intérprete a opção de escolha do método de tradução dentre os oferecidos pela plataforma, sendo elas: interpretação por libras, vídeo legendado ou      audiodescrição. | IMPORTANTE |
 |RF-005   | Disponibilizar os vídeos traduzidos separados por categorias personalizadas, para uma melhor interação do usuário. | DESEJÁVEL |
 |RF-006   | Dispor as solicitações de tradução, separados por categorias personalizadas, para uma melhor interação do voluntário.| DESEJÁVEL |
