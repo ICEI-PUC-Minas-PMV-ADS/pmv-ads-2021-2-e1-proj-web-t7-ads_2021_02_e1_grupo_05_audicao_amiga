@@ -75,7 +75,8 @@ O quadro gerenciado pelo grupo no aplicativo Trello está disponível através d
 Figura 2 - Tela do Trello para Gerenciamento do Projeto <br>
 ![Imagem Trello](https://user-images.githubusercontent.com/89549220/135769092-86a86aef-642d-477f-8369-e8ec67c32e13.png) <br>
 Fonte: Trello - Elaborado pelos autores
-<br>
+
+
 A tarefas estão etiquetadas em função da natureza da atividade e seguem o esquema de cores/categorias conforme abaixo:
 
 * Documentação
