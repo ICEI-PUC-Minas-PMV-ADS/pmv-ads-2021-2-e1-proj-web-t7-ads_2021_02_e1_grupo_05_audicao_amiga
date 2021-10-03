@@ -72,10 +72,10 @@ Na organização e na distribuição das tarefas do projeto, o grupo utiliza o a
 
 O quadro gerenciado pelo grupo no aplicativo Trello está disponível através da URL especificada no Quadro 7 e é apresentado, em seu estado atual, congênere figura abaixo. A caracterização da estrutura montada se fundamentou no artigo escrito por Littlefield (2016), assim como nos conceitos de Scrum de Schwaber e Sutherland (2020).
 
-Figura 2 - Tela do Trello para Gerenciamento do Projeto 
-![Imagem Trello](https://user-images.githubusercontent.com/89549220/135769092-86a86aef-642d-477f-8369-e8ec67c32e13.png)
+Figura 2 - Tela do Trello para Gerenciamento do Projeto <br>
+![Imagem Trello](https://user-images.githubusercontent.com/89549220/135769092-86a86aef-642d-477f-8369-e8ec67c32e13.png) <br>
 Fonte: Trello - Elaborado pelos autores
-
+<br>
 A tarefas estão etiquetadas em função da natureza da atividade e seguem o esquema de cores/categorias conforme abaixo:
 
 * Documentação
@@ -85,8 +85,8 @@ A tarefas estão etiquetadas em função da natureza da atividade e seguem o esq
 * Gerência de Projetos
 * Revisão de Código
 
-Figura 3 - Natureza das Atividades
-![Etiquetas Trello2](https://user-images.githubusercontent.com/89549220/135769139-9475b908-80e1-41d5-9ad3-6e3ee9e0219e.png)
+Figura 3 - Natureza das Atividades <br>
+![Etiquetas Trello2](https://user-images.githubusercontent.com/89549220/135769139-9475b908-80e1-41d5-9ad3-6e3ee9e0219e.png) <br>
 Fonte - Elaborado pelos autores
 
 
