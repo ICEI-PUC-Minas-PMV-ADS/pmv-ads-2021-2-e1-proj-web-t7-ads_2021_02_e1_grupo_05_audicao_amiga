@@ -22,7 +22,10 @@ Pensando nesse contexto, o grupo optou por utilizar um processo fundamentado no 
 
 O GitFlow é um framework criado em 2010 e considerado um ótimo modelo de branching, além de ser usado para trabalhar em conjunto com o sistema de controle de versão Git (VIETRO, 2015). Assim sendo, as manutenções do código serão efetuadas definindo-se os papéis de cada branch em separado, como eles devem interagir entre si, e com a identificação de Branch Master, Branch Develop, Feature Branch, Release Branch, Maintenance Branch (Hotfix).
 
+Figura 1 - GitFlow Workflow 
+Modelo de Fluxo de Controle do Código Fonte no Repositório Git
 ![Imagem1](https://user-images.githubusercontent.com/89549220/135769298-eea53f98-5e3e-4dd4-8c84-45e496dfbac4.png)
+Fonte: Vietro (2015)
 
 Esse modelo de workflow utiliza dois branches principais para guardar o histórico do projeto, ao invés de trabalhar com apenas um Branch Master. O Branch Master guarda o histórico oficial das entregas, já o Branch Develop serve como integração entre todos os branches de funcionalidades (Feature Branches). Cada funcionalidade deve ter seu próprio branch, e ele deve ser criado a partir do Branch Develop. Quando uma funcionalidade for concluída, ela é mesclada (merged) novamente com o seu branch pai. Quando o Branch Develop estiver com funcionalidades suficientes para uma entrega, criaremos um branch de entrega (Release Branch). Com isso, damos início ao próximo ciclo de entrega, ou seja, nenhuma nova funcionalidade pode ser incluída a partir desse momento. Quando estivermos prontos para realizar a entrega, o Release Branch é mesclada com os branches Master e Develop. O Maintenance Branches (Hotfix) são usados para corrigir rapidamente algum problema em produção. Este é o único branch que deve ser criado a partir do Master. Assim que a correção for finalizada, o branch é fechado e mesclado com o Master e Develop, mantendo assim as linhas completamente atualizadas (VIETRO, 2015).
 
@@ -69,7 +72,9 @@ Na organização e na distribuição das tarefas do projeto, o grupo utiliza o a
 
 O quadro gerenciado pelo grupo no aplicativo Trello está disponível através da URL especificada no Quadro 7 e é apresentado, em seu estado atual, congênere figura abaixo. A caracterização da estrutura montada se fundamentou no artigo escrito por Littlefield (2016), assim como nos conceitos de Scrum de Schwaber e Sutherland (2020).
 
+Figura 2 - Tela do Trello para Gerenciamento do Projeto 
 ![Imagem Trello](https://user-images.githubusercontent.com/89549220/135769092-86a86aef-642d-477f-8369-e8ec67c32e13.png)
+Fonte: Trello - Elaborado pelos autores
 
 A tarefas estão etiquetadas em função da natureza da atividade e seguem o esquema de cores/categorias conforme abaixo:
 
@@ -80,7 +85,9 @@ A tarefas estão etiquetadas em função da natureza da atividade e seguem o esq
 * Gerência de Projetos
 * Revisão de Código
 
+Figura 3 - Natureza das Atividades
 ![Etiquetas Trello2](https://user-images.githubusercontent.com/89549220/135769139-9475b908-80e1-41d5-9ad3-6e3ee9e0219e.png)
+Fonte - Elaborado pelos autores
 
 
 ### Ferramentas
