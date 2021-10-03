@@ -5,6 +5,8 @@
 
 Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
 
+A metodologia pormenoriza as ferramentas aplicadas pelo grupo na organização e na distribuição da implantação das tarefas do projeto, assim como nas plataformas e artefatos utilizados para a manutenção e conservação dos códigos.
+
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o
@@ -37,24 +39,59 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ## Gerenciamento de Projeto
 
+O grupo decidiu por utilizar a metodologia Ágil, sendo escolhido o Scrum como base para definição do processo de desenvolvimento do projeto.
+
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+Sua organização está apresentada conforme abaixo:
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+* __Scrum Master__
+- Carlos Eduardo Amorim Silva
+
+* __Product Owner__
+- Fabiana Bicalho Palhano Rocha Cossenzo
+
+* __Equipe de Desenvolvimento__
+- Arthur Alves Rocha de Souza
+- Bruna Ester Rolim Rocha
+- Carlos Eduardo Amorim Silva
+- Fabiana Bicalho Palhano Rocha Cossenzo
+- Sabrina Gonçalves de Andrade
+
+* __Equipe de Design__
+- Arthur Alves Rocha de Souza
+- Bruna Ester Rolim Rocha
+- Carlos Eduardo Amorim Silva
+- Fabiana Bicalho Palhano Rocha Cossenzo
+- Sabrina Gonçalves de Andrade
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+Na organização e na distribuição das tarefas do projeto, o grupo utiliza o aplicativo de gerenciamento de projetos denominado Trello, onde o mesmo está estruturado com as seguintes listas: 
+
+* __Recursos__: lista com todas as tarefas que são recorrentes, com o objetivo de agilizar a criação de novos cartões, bastando movê-lo para o local necessário.
+* __Backlog__: local onde é adicionado as tarefas a serem trabalhadas pela equipe, assim como as tarefas que forem identificadas no andamento do projeto. 
+* __To Do__: representa o Sprint Backlog atual que está sendo trabalhado.
+* __Doing__: tarefas que foram iniciadas são adicionadas nessa lista.
+* __Test (CQ - Checagem de Qualidade)__: lista das tarefas que foram concluídas. Nesse estágio cabe-se ainda uma revisão para verificar a qualidade.
+* __Done__: nesta lista são adicionadas as tarefas que passaram pela Checagem de Qualidade e estão prontas para serem enviadas e/ou entregues.
+* __Locked__: lista onde será relacionado e especificado o que está impedindo a conclusão da tarefa, juntamente com um comentário sobre o que está travando a tarefa.
+
+O quadro gerenciado pelo grupo no aplicativo Trello está disponível através da URL especificada no Quadro 7 e é apresentado, em seu estado atual, congênere figura abaixo. A caracterização da estrutura montada se fundamentou no artigo escrito por Littlefield (2016), assim como nos conceitos de Scrum de Schwaber e Sutherland (2020).
+
+![Imagem Trello](https://user-images.githubusercontent.com/89549220/135769092-86a86aef-642d-477f-8369-e8ec67c32e13.png)
+
+A tarefas estão etiquetadas em função da natureza da atividade e seguem o esquema de cores/categorias conforme abaixo:
+
+* Documentação
+* Desenvolvimento 
+* Infraestrutura
+* Testes
+* Gerência de Projetos
+* Revisão de Código
+
+![Etiquetas Trello2](https://user-images.githubusercontent.com/89549220/135769139-9475b908-80e1-41d5-9ad3-6e3ee9e0219e.png)
+
 
 ### Ferramentas
 
@@ -75,3 +112,5 @@ Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justific
 > **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
 > - [Slack](https://slack.com/)
 > - [Github](https://github.com/)
+
+
