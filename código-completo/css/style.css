@@ -1,0 +1,83 @@
+/* cores do site 
+
+#6C63FF - ROXO
+#FE9298 - ROSA
+#323535 - FUNDO PRETO FOSCO
+#434D66 - FUNDO AZUL  
+
+*/
+
+
+
+body {
+    background-color: #434D66    
+  }
+
+.btn {
+    background-color: #6C63FF; /* Green */
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    border-radius: 65px;
+    border: none;
+    font-size: 16px;
+    margin-left:auto;
+    margin-right:auto;
+    width: 180px;
+}
+
+
+.btn a{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: bold;
+    font-family: Helvetica, Arial, sans-serif;
+    color: white;
+    margin-top: 30px;
+    margin-left:auto;
+    margin-right:auto;
+    width: 180px;    
+    
+}
+
+
+.header {
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.2);
+    background-color: #323535;
+    padding: 150px;
+    z-index: 1;
+}
+
+
+.frase {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: bold;
+    font-family: Helvetica, Arial, sans-serif;
+    color: white;
+    margin-top: 30px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+
+.frase p{
+    text-transform: uppercase;
+    font-size: bold;
+    font-family: Helvetica, Arial, sans-serif;
+    color: white;
+    margin: 3px;
+    margin-left: 680px;
+}
+
+
+.AA img{
+    display: block;
+    width:  955px;
+    height: 544px;  
+    margin-left:auto;
+    margin-right:auto;
+}
+

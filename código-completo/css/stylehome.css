@@ -1,0 +1,124 @@
+/* cores do site 
+
+#6C63FF - ROXO
+#FE9298 - ROSA
+#323535 - FUNDO PRETO FOSCO
+#434D66 - FUNDO AZUL  
+
+*/
+
+
+
+body {
+    background-color: #434D66    
+}
+
+.fontbtn a div:last-child{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: normal;
+    font-family: Helvetica, Arial, sans-serif;
+    color: white;
+  }
+
+.btn {
+    width: 180px;
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.2);
+    background-color: #6C63FF;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    display: block;
+    border-radius: 65px;
+    border: none;
+    padding: 15px 32px;;
+    margin-top: 100px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+
+.btn a:hover{
+    width: 180px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold; 
+    font-size: normal;
+    font-family: Helvetica, Arial, sans-serif;
+    color: black;
+    margin-top: 30px;
+    margin-left:auto;
+    margin-right:auto; 
+}
+
+.btn:active {
+    background-color: #FE9298;
+    box-shadow: 0 3px #282b2b;
+    transform: translateY(4px);
+  }
+
+.btn a{
+    width: 180px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: normal;
+    font-family: Helvetica, Arial, sans-serif;
+    color: white;
+    margin-top: 30px;
+    margin-left:auto;
+    margin-right:auto;   
+    transition-duration: 1s;
+}
+
+
+
+
+
+
+.header {
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.2);
+    border-radius: 0 0 15px 15px;
+    background-color: #323535;
+    padding: 80px;
+    transition: 2s;
+    z-index: 1;
+}
+
+
+.frase h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: normal;
+    font-family: Helvetica, Arial, sans-serif;
+    color: white;
+    margin-top: 30px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+
+.frase p{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: normal;
+    font-family: Helvetica, Arial, sans-serif;
+    color: white;
+    margin: 10px;
+    margin-left: 1232px;
+}
+
+
+.logomarca img{
+    display: flex;
+    width:  955px;
+    height: 558px;  
+    margin-left:auto;
+    margin-right:auto;
+}
+
+

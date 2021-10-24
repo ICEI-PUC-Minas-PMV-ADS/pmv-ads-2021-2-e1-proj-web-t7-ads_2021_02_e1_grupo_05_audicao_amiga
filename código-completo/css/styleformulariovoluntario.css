@@ -1,0 +1,328 @@
+body {
+    background-color: #434D66;
+}
+
+.header {
+    box-shadow: 3px 3px 3px 3px rgb(0 0 0 / 20%);
+    border-radius: 0 15px 15px 0;
+    background-color: #323535;
+    height: 100%;
+    width: 350px;
+    position: relative;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    padding: 40px;
+    padding-top: 60px;
+    transition: 0.5s;
+}
+
+.wrapper {
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+}
+
+.formulario_voluntario {
+    box-shadow: 3px 3px 3px 3px rgb (0 0 0 / 20%);
+    border-radius: 0 15px 15px 0;
+    background-color: #323535;
+    height: 100%;
+    width: 350px;
+    position: relative;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    padding: 40px;
+    padding-top: 60px;
+    transition: 0.5s;
+}
+
+.foto {
+    margin-left: 80px;
+    margin-top: -20px;
+}
+
+.nome-voluntario {
+    margin-left: 50px;
+    margin-top: 10px;
+    color: white;
+}
+
+.linha-horizontal1 {
+    width: calc(100% + 80px);
+    margin-left: -40px;
+    border: 1px solid #ffffff;
+    opacity: 30%;
+    margin-top: 40px;
+}
+
+.linha-horizontal:nth-child(1) {
+    padding-top: 30px;
+}
+
+.botao-cadastro {
+    margin-left: 70px;
+    margin-top: 200px;
+}
+
+.link-video input {
+    background-color: #6C63FF;
+    border-radius: 25px;
+    width: 300px;
+    height: 35px;
+    border: none;
+    padding-left: -10px;
+    text-align: center;
+    margin: 10px -15px;
+    padding: 5px 32px;
+    margin-top: 15px;
+}
+
+.link-video input {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* deixar o nome por dentro do form branco*/
+
+*::-webkit-input-placeholder {
+    color: white;
+}
+*::-moz-placeholder {
+    /* FF 4-18 */
+    color:  white;
+    opacity: 1;
+}
+*::-moz-placeholder {
+    /* FF 19+ */
+    color:  white;
+    opacity: 1;
+}
+*::-ms-input-placeholder {
+    /* IE 10+ */
+    color:  white;
+}
+*::-ms-input-placeholder {
+    /* Microsoft Edge */
+    color:  white;
+}
+*::placeholder {
+    /* modern browser */
+    color:  white;
+}
+
+.linha-horizontal2 {
+    width: calc(60% + 80px);
+    margin-left: 10px;
+    border: 1px solid #ffffff;
+    opacity: 30%;
+    margin-top: 30px;
+}
+
+.linha-horizontal:nth-child(1) {
+    padding-top: 30px;
+}
+
+.modo-traducao {
+    margin-left: 70px;
+    margin-top: 10px;
+    color: white;
+}
+
+.opcao-traducao {
+    width: 300px;
+    background-color: #6C63FF;
+    text-align: justify;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    display: block;
+    border-radius: 65px;
+    border: none;
+    padding: 5px 32px;
+    margin: 10px -15px;
+    margin-right:auto;
+}
+
+.opcao-traducao [type=radio] {
+    margin-left: 20%;
+}
+
+.opcao-traducao2 {
+    width: 300px;
+    background-color: #6C63FF;
+    text-align: justify;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    display: block;
+    border-radius: 65px;
+    border: none;
+    padding: 5px 32px;
+    margin: 10px -15px;
+    margin-right:auto;
+}
+
+.opcao-traducao2 [type=radio] {
+    margin-left: 46.2%;
+}
+
+.opcao-traducao3 {
+    width: 300px;
+    background-color: #6C63FF;
+    text-align: justify;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    display: block;
+    border-radius: 65px;
+    border: none;
+    padding: 5px 32px;
+    margin: 10px -15px;
+    margin-right:auto;
+}
+
+.opcao-traducao3 [type=radio] {
+    margin-left: 40.3%;
+}
+
+.linha-horizontal3 {
+    width: calc(60% + 80px);
+    margin-left: 10px;
+    border: 1px solid #ffffff;
+    opacity: 30%;
+    margin-top: 30px;
+}
+
+.linha-horizontal:nth-child(1) {
+    padding-top: 30px;
+}
+
+.botao-enviar {
+    width: 140px;
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.2);
+    background-color: #6C63FF;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    display: block;
+    border-radius: 65px;
+    border: none;
+    padding: 5px 32px;;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+.botao-enviar a{
+    width: 180px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: normal;
+    font-family: Helvetica, Arial, sans-serif;
+    color: white;
+    margin-top: 30px;
+    margin-left:auto;
+    margin-right:auto;   
+    transition-duration: 1s;
+}
+
+.botao-enviar a:hover{
+    width: 180px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold; 
+    font-size: normal;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #FE9298;
+    margin-top: 30px;
+    margin-left:auto;
+    margin-right:auto; 
+}
+
+.linha-horizontal4 {
+    width: calc(100% + 80px);
+    margin-left: -40px;
+    border: 1px solid #ffffff;
+    opacity: 30%;
+    margin-top: 30px;
+}
+
+.linha-horizontal:nth-child(1) {
+    padding-top: 30px;
+}
+
+.botao-voltar {
+    width: 250px;
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.2);
+    background-color: #323535;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    display: block;
+    border-radius: 65px;
+    border: none;
+    padding: 5px 32px;;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+.botao-voltar a{
+    width: 250px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: normal;
+    font-family: Helvetica, Arial, sans-serif;
+    color: white;
+    margin-top: 30px;
+    margin-left:auto;
+    margin-right:auto;   
+    transition-duration: 1s;
+}
+
+.botao-voltar a:hover{
+    width: 250px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold; 
+    font-size: normal;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #FE9298;
+    margin-top: 30px;
+    margin-left:auto;
+    margin-right:auto; 
+}
+
+.quadrado {
+    width: 1400px;
+    height: 950px;
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.2);
+    border-radius: 10px 10px 10px 10px;
+    background-color: #323535;
+    overflow: hidden;     
+    display: flex;     
+    align-items: flex-start;    
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.quadrado img {
+    width: 1040px;
+    height: 930px;
+    margin-left: 180px;
+    margin-top: 15px;
+    padding: -10px;
+}  
