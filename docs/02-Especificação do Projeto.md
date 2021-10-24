@@ -142,7 +142,7 @@ O propósito funcional do projeto é definido por meio dos requisitos funcionais
 Descrevemos a seguir os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
 
 |ID       | Descrição do Requisito  | Prioridade |
-|---------|-----------------------------------------|----|
+|---------|-------------------------|------------|
 |RF-001   | Permitir que o usuário tenha acesso aos vídeos anteriormente traduzidos por um voluntário, através da plataforma. | ESSENCIAL | 
 |RF-002   | Oferecer a possibilidade do usuário deficiente auditivo ou surdo de solicitar a tradução de um vídeo, encaminhando o link do mesmo através de um formulário.| ESSENCIAL|
 |RF-003   | Permitir que o intérprete escolha um vídeo na plataforma para tradução. | IMPORTANTE |
@@ -164,7 +164,7 @@ Descrevemos a seguir os requisitos do projeto, identificando a prioridade em que
 Apresentamos a seguir os requisitos não funcionais que o projeto deverá atender.
 
 |ID      | Descrição do Requisito  |Prioridade |
-|--------|-------------------------|----|
+|--------|-------------------------|-----------|
 |RNF-001 | O sistema deve ser multiplataforma, possibilitando seu uso em dispositivos com Windows, Linux e macOS.     |  ESSENCIAL  | 
 |RNF-002 | O site deve ter bom nível de contraste entre os elementos da tela em conformidade.                         |  DESEJÁVEL  | 
 |RNF-003 | Site compatível com os principais navegadores do mercado (Google Chrome, Mozilla Firefox, Microsoft Edge). |  ESSENCIAL  | 
@@ -177,8 +177,8 @@ Apresentamos a seguir os requisitos não funcionais que o projeto deverá atende
 
 Apresentamos na tabela abaixo, tópicos consideráveis que limitam a execução do projeto e que se configuram como encargos necessários para seu desenvolvimento.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
+|ID   | Restrição                                             |
+|-----|-------------------------------------------------------|
 |RE-01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 06/12/2021. |
 |RE-02| O aplicativo deve se restringir às tecnologias básicas da Web no Front-End                              |
 |RE-03| A equipe não pode subcontratar o desenvolvimento do trabalho.                                           |
