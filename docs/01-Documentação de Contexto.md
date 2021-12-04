@@ -40,14 +40,11 @@ Como objetivos específicos, podemos citar:
 
 •	Oferecer a possibilidade do usuário deficiente auditivo ou surdo de solicitar a tradução de um vídeo, encaminhando o link do mesmo através de um formulário;  
 
-•	Viabilizar para o intérprete a opção de escolha do método de tradução dentre os oferecidos pela plataforma, sendo elas: interpretação por libras, vídeo legendado ou audiodescrição;  
-
-•	Notificar o usuário quando sua solicitação for atendida por um voluntário;  
+•	Viabilizar para o intérprete a tradução por vídeo legendado;  
 
 •	Disponibilizar os vídeos traduzidos separados por categorias personalizadas, para uma melhor interação do usuário;  
 
 •	Dispor as solicitações de tradução, separados por categorias personalizadas, para uma melhor interação do voluntário.  
-
 
 
 ## Justificativa
