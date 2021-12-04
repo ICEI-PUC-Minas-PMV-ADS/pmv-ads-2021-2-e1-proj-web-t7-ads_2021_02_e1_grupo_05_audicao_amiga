@@ -15,6 +15,7 @@ Quadro 7 - Ambientes de Trabalho
 | Documentos do Projeto | Google Drive | https://drive.google.com/drive/folders/1nC1o-M0hkkj3bCmoYNUu5mf4AagLoLDZ?usp=sharing |
 | Projeto de Interface e  Wireframes | Adobe XD | https://xd.adobe.com/view/e7aaa406-952d-4a56-a7d1-b5021fa0c83c-b2f9/?fullscreen |
 | Gerenciamento do Projeto | Trello | https://trello.com/b/h196UeQh |
+
 Fonte: Elaborado pelos autores
 
 
