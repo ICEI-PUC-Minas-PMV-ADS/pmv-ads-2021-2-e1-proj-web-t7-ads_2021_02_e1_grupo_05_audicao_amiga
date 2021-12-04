@@ -1,12 +1,12 @@
-# Especificações do Projeto
-
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
+# Especificação do Projeto
 
 A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi estabelecido com a participação dos usuários por meio de entrevista online com perguntas previamente estipuladas. A partir dessa interação consolidamos os dados coletados na forma de personas e histórias de usuários.
 
 ## Personas
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas abaixo.
+
+Quadro 1 - Personas Entrevistadas - Usuários
 
 |PERGUNTAS                    |RESPOSTA                                                                                                                  |
 |-----------------------------|--------------------------------------------------------------------------------------------------------------------------|
