@@ -56,10 +56,11 @@ Quadro 1 - Personas Entrevistadas - Usuários
 |UTILIDADE DO SISTEMA NO SEU DIA-A-DIA                    |“Sou estudante e ao procurar conteúdos que possam me ajudar no aprendizado muita das vezes não consigo ter acesso por não ter legenda. Com esse sistema melhoraria consideravelmente meus estudos.”                                                                            |
 |DIFICULDADE ATUAL PARA ENCONTRAR CONTEÚDOS NA INTERNET   |“Como já havia dito, os vídeos não possuem legenda e muita das vezes quando possui não condiz muito com que está acontecendo no momento, fica atrasado ou até mesmo pula algumas partes.”                                                                                 |
 |PREFERÊNCIA POR TEMA CLARO OU ESCURO NO SITE             |“Tema claro.”                                                                                 |
-|                                                         |                                                                                              |
-|                                                         |                                                                                              |
-|                                                         |                                                                                              |
-|                                                         |                                                                                              |
+
+Quadro 2 - Personas Entrevistadas - Voluntários
+
+|PERGUNTAS                    |RESPOSTA                                                                                                                  |
+|-----------------------------|--------------------------------------------------------------------------------------------------------------------------|
 |NOME                                                     |Felipe Eduardo Lima                                                                           |
 |EMAIL                                                    |felipeedu23@gmail.com                                                                         |
 |TIPO DE PERSONA                                          |Audiodescritor Voluntário                                                                     |
